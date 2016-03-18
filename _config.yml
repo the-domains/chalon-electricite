@@ -1,6 +1,6 @@
 name: CHALON ELECTRICITE
 favicon: null
-layout_spectrum: 0.25799
+layout_spectrum: 0.4203
 typography_spectrum: 1
 title: 'ELECTRICITE GENERALE & INDUSTRIELLE'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#7a4124'
     - '#feda46'
     - '#f2f0eb'
-  brandStrength: 0.09499786258675158
+  brandStrength: 0.125
   lightness: 0.1875
   saturation: 0.3651780167128891
   rhythmicContrast: 0

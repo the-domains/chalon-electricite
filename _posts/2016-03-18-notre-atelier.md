@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Taluyers City: 142 chemin des Eglantiers'
-datePublished: '2016-03-18T18:46:11.099Z'
-dateModified: '2016-03-18T18:45:58.208Z'
+datePublished: '2016-03-18T20:28:12.691Z'
+dateModified: '2016-03-18T20:27:37.651Z'
 title: Notre Atelier
 author: []
 sourcePath: _posts/2016-03-18-notre-atelier.md
@@ -25,4 +25,4 @@ _type: Article
 # Notre Atelier
 
 Taluyers City: 142 chemin des Eglantiers
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7871595f6317e93c4a1b95429b8fcdc5650f8631.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a383d914-52fb-4cdb-9964-6fa9a3978880.jpg)

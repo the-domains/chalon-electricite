@@ -1,0 +1,28 @@
+name: CHALON ELECTRICITE
+favicon: null
+layout_spectrum: 0.17323293560184538
+typography_spectrum: 0.31215581903234124
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.09499786258675158
+  lightness: 0.682772898580879
+  saturation: 0.3651780167128891
+  rhythmicContrast: 0.263156674336642
+purpose: []

@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: CHALON ELECTRICITE
-datePublished: '2016-03-18T20:22:13.905Z'
-dateModified: '2016-03-18T20:22:07.459Z'
+datePublished: '2016-03-18T20:23:44.184Z'
+dateModified: '2016-03-18T20:23:37.870Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-18-chalon-electricite.md
@@ -23,4 +23,4 @@ _type: Article
 
 ---
 CHALON ELECTRICITE
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07f5e5d5-b0bf-4821-acd4-cf5dba95eec9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f70f4a847e8abc3d3db78bf8f9c6da966b25f934.jpg)

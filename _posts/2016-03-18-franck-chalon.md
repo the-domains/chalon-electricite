@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-18T20:48:26.767Z'
-dateModified: '2016-03-18T20:46:05.989Z'
+datePublished: '2016-03-18T20:49:41.521Z'
+dateModified: '2016-03-18T20:48:35.909Z'
 title: Franck CHALON
 author: []
 sourcePath: _posts/2016-03-18-franck-chalon.md

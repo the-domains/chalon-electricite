@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-18T18:46:15.807Z'
-dateModified: '2016-03-18T18:46:02.585Z'
+datePublished: '2016-03-18T20:29:53.520Z'
+dateModified: '2016-03-18T20:29:51.244Z'
 title: Franck CHALON
 author: []
 sourcePath: _posts/2016-03-18-franck-chalon.md
@@ -25,4 +25,4 @@ _type: Article
 # Franck CHALON
 
 ## Electricité Générale et Industrielle
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/96d9e870-d3b0-4f71-9dcd-f35443b8f8e8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29c8f074-f1be-40a3-8460-a429cfbebd44.jpg)

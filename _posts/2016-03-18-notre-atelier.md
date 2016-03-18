@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ':'
-datePublished: '2016-03-18T18:26:15.617Z'
-dateModified: '2016-03-18T18:26:14.192Z'
+datePublished: '2016-03-18T18:27:47.191Z'
+dateModified: '2016-03-18T18:27:44.660Z'
 title: Notre Atelier
 author: []
 sourcePath: _posts/2016-03-18-notre-atelier.md

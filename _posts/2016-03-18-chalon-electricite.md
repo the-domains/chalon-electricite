@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: CHALON ELECTRICITE
-datePublished: '2016-03-18T20:21:55.136Z'
-dateModified: '2016-03-18T20:21:41.415Z'
+datePublished: '2016-03-18T20:22:13.905Z'
+dateModified: '2016-03-18T20:22:07.459Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-18-chalon-electricite.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-chalon-electricite.md
-published: true
 url: chalon-electricite/index.html
 _type: Article
 

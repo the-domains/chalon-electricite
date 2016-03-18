@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-18T18:19:22.178Z'
-dateModified: '2016-03-18T18:18:51.088Z'
+datePublished: '2016-03-18T18:23:36.863Z'
+dateModified: '2016-03-18T18:23:35.340Z'
 title: Franck CHALON
 author: []
+sourcePath: _posts/2016-03-18-franck-chalon.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-franck-chalon.md
-published: true
 url: franck-chalon/index.html
 _type: Article
 

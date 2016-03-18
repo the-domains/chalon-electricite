@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CHALON ELECTRICITE]]></title>
-        <description><![CDATA[CHALON ELECTRICITE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[ELECTRICITE GENERALE & INDUSTRIELLE]]></title>
+        <description><![CDATA[ELECTRICITE GENERALE & INDUSTRIELLE]]></description>
+        <link>https://thegrid.ai/chalon-electricite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 18:19:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 18:22:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chalon-electricite/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Notre Atelier]]></title>
+            <description><![CDATA[<article><h1>Notre Atelier</h1><h2>Taluyers City: 142 chemin des Eglantiers</h2><p>:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e5c2b26-8795-4dc6-b3c8-afbd96dfb03a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chalon-electricite/notre-atelier/index.html</link>
+            <guid isPermaLink="false">6d2b0e77-9669-467b-a087-f79e66d8331f</guid>
+            <pubDate>Fri, 18 Mar 2016 18:22:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Franck CHALON]]></title>
             <description><![CDATA[<article><h1>Franck CHALON</h1><h2>Electricité Générale et Industrielle</h2></article>]]></description>
-            <link>undefinedfranck-chalon/index.html</link>
+            <link>https://thegrid.ai/chalon-electricite/franck-chalon/index.html</link>
             <guid isPermaLink="false">9c071c34-f87c-4f2a-bfe5-a6b6f4fab8c1</guid>
             <pubDate>Fri, 18 Mar 2016 18:19:22 GMT</pubDate>
         </item>

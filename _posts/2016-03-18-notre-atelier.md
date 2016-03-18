@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-18T18:22:40.221Z'
-dateModified: '2016-03-18T18:22:34.476Z'
+description: ':'
+datePublished: '2016-03-18T18:22:53.124Z'
+dateModified: '2016-03-18T18:22:47.053Z'
 title: Notre Atelier
 author: []
+sourcePath: _posts/2016-03-18-notre-atelier.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-18-notre-atelier.md
-published: true
 url: notre-atelier/index.html
 _type: Article
 

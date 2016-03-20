@@ -16,9 +16,9 @@ keywords:
   - rhye
   - '393'
   - thepolicevevo
-description: "Subscribe to the Official Queen Channel Here http://bit.ly/Subscribe2Queen Taken from Flash Gordon, 1980. Queen - 'Flash' Click here to buy the DVD with this video at the Official Queen Store: http://www.queenonlinestore.com The official 'Flash' music video. Taken from Queen - 'Greatest Video Hits 1'."
-datePublished: '2016-03-20T20:10:47.148Z'
-dateModified: '2016-03-20T20:10:45.031Z'
+description: CHALON ELECTRICITE
+datePublished: '2016-03-20T20:12:00.930Z'
+dateModified: '2016-03-20T20:11:56.057Z'
 author:
   - name: Queen Official
     url: 'https://www.youtube.com/user/queenofficial'

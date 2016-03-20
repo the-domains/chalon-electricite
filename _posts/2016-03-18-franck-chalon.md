@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-18T20:49:41.521Z'
-dateModified: '2016-03-18T20:48:35.909Z'
+datePublished: '2016-03-20T20:09:36.069Z'
+dateModified: '2016-03-20T20:09:29.857Z'
 title: Franck CHALON
 author: []
 sourcePath: _posts/2016-03-18-franck-chalon.md

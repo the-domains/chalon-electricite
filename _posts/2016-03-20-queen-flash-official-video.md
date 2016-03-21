@@ -17,8 +17,8 @@ keywords:
   - '393'
   - thepolicevevo
 description: CHALON ELECTRICITE
-datePublished: '2016-03-20T20:12:00.930Z'
-dateModified: '2016-03-20T20:11:56.057Z'
+datePublished: '2016-03-21T16:07:10.213Z'
+dateModified: '2016-03-21T16:06:55.554Z'
 author:
   - name: Queen Official
     url: 'https://www.youtube.com/user/queenofficial'
@@ -75,5 +75,3 @@ _context: 'http://schema.org'
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/558f90c723a50cabe053904f3bd74dc6c0ea86f4.jpg)
-
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FLfmrHTdXgK4%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLfmrHTdXgK4&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLfmrHTdXgK4%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>

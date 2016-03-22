@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: CHALON ELECTRICITE
-datePublished: '2016-03-22T19:26:22.769Z'
-dateModified: '2016-03-22T19:26:01.033Z'
+datePublished: '2016-03-22T19:55:35.515Z'
+dateModified: '2016-03-22T19:55:25.360Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-18-chalon-electricite.md

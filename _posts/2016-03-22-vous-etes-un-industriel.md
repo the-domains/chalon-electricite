@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'CHALON ELECTRICITE vous fournit un service complet pour l’ installation élèctrique de vos ateliers ainsi que de vos bureaux:'
-datePublished: '2016-03-22T20:06:00.527Z'
-dateModified: '2016-03-22T20:05:49.390Z'
+datePublished: '2016-03-22T20:19:25.567Z'
+dateModified: '2016-03-22T20:18:30.818Z'
 title: Vous êtes un Industriel ?
 author: []
 sourcePath: _posts/2016-03-22-vous-etes-un-industriel.md
@@ -25,7 +25,7 @@ _type: Article
 # Vous êtes un Industriel ?
 
 ## Une urgence ? Nous sommes disponibles 7j/7 depuis 1979
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/07d199b4e49f54f58bf923b6baaea89be2b1e962.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/18d028595f3d8bdae5b86d30775b37fcd444e790.gif)
 
 CHALON ELECTRICITE vous fournit un service complet pour l' installation élèctrique de vos ateliers ainsi que de vos bureaux:
 

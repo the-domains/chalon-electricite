@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'En neuf ou en rénovation , CHALON ELECTRICITE intervient sur votre chantier en toute sécurité et vous garantit une installation conforme aux normes C1500 .'
-datePublished: '2016-03-22T19:28:49.978Z'
-dateModified: '2016-03-22T19:28:17.371Z'
+datePublished: '2016-03-22T20:08:51.064Z'
+dateModified: '2016-03-22T20:08:35.919Z'
 title: Vous êtes un Particulier ?
 author: []
 sourcePath: _posts/2016-03-22-vous-etes-un-particulier.md
@@ -31,7 +31,7 @@ En neuf ou en rénovation , CHALON ELECTRICITE intervient sur votre chantier en 
 
 Nos travaux sont couverts par une garantie décénale.
 
-Vous pouvez faire appel à nous pour :
+**Vous pouvez faire appel à nous pour :**
 
 * Un contrôle (audit) de votre installation : sécurité, efficacité de votre isolation, économie d'énergie
 

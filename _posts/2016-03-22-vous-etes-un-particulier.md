@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Dépannage - Installation - Audit
-datePublished: '2016-03-22T19:18:35.800Z'
-dateModified: '2016-03-22T19:17:31.943Z'
+description: 'En neuf ou en rénovation , CHALON ELECTRICITE intervient sur votre chantier en toute sécurité et vous garantit une installation conforme aux normes C1500 .'
+datePublished: '2016-03-22T19:19:07.941Z'
+dateModified: '2016-03-22T19:19:04.846Z'
 title: Vous êtes un Particulier ?
 author: []
+sourcePath: _posts/2016-03-22-vous-etes-un-particulier.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-22-vous-etes-un-particulier.md
-published: true
 url: vous-etes-un-particulier/index.html
 _type: Article
 

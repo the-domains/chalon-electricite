@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'CHALON ELECTRICITE vous fournit un service complet pour l’ installation élèctrique de vos ateliers ainsi que de vos bureaux:'
-datePublished: '2016-03-22T19:26:11.572Z'
-dateModified: '2016-03-22T19:24:34.258Z'
+datePublished: '2016-03-22T19:55:20.879Z'
+dateModified: '2016-03-22T19:53:19.824Z'
 title: Vous êtes un Industriel ?
 author: []
 sourcePath: _posts/2016-03-22-vous-etes-un-industriel.md

@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Zone Artisanale et Commerciale de La Ronze
-datePublished: '2016-03-22T19:52:47.926Z'
-dateModified: '2016-03-22T19:52:47.465Z'
+datePublished: '2016-03-22T19:55:43.207Z'
+dateModified: '2016-03-22T19:53:00.978Z'
 title: Notre Atelier
 author: []
 sourcePath: _posts/2016-03-18-notre-atelier.md

@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=LfmrHTdXgK4'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - queen
   - duration
@@ -17,8 +17,8 @@ keywords:
   - '393'
   - thepolicevevo
 description: CHALON ELECTRICITE
-datePublished: '2016-03-21T16:07:10.213Z'
-dateModified: '2016-03-21T16:06:55.554Z'
+datePublished: '2016-03-22T19:20:11.187Z'
+dateModified: '2016-03-22T19:20:10.760Z'
 author:
   - name: Queen Official
     url: 'https://www.youtube.com/user/queenofficial'
@@ -61,7 +61,7 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: Queen - Flash (Official Video)
+title: LOGO 2016
 sourcePath: _posts/2016-03-20-queen-flash-official-video.md
 published: true
 authors: []

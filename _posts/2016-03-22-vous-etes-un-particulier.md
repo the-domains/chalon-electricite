@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Nos travaux sont couverts par une garantie décénale.
-datePublished: '2016-04-20T17:27:35.045Z'
-dateModified: '2016-04-20T17:27:31.867Z'
+datePublished: '2016-04-20T17:42:48.681Z'
+dateModified: '2016-04-20T17:42:25.527Z'
 title: Vous êtes un Particulier ?
 author:
   - name: ''
@@ -27,7 +27,7 @@ _type: Article
 # Vous êtes un Particulier ?
 
 ## Dépannage - Installation - Audit
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e206982f-50e2-4e6c-9eaa-6fe3f68412bf.jpg)
+![création et mise en oeuvre d'éclairage de terrasse](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e206982f-50e2-4e6c-9eaa-6fe3f68412bf.jpg)
 
 ## En neuf ou en rénovation , CHALON ELECTRICITE intervient sur votre chantier en toute sécurité et vous garantit une installation conforme aux normes C1500 .
 

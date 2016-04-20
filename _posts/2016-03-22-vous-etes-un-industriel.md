@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: 'Raccordement au Réseau d’Alimentation :'
-datePublished: '2016-04-20T17:48:09.127Z'
-dateModified: '2016-04-20T17:48:06.820Z'
+description: ''
+datePublished: '2016-04-20T17:48:49.981Z'
+dateModified: '2016-04-20T17:48:49.540Z'
 title: 'Industriel, tertiaire, Artisans'
 author: []
 sourcePath: _posts/2016-03-22-vous-etes-un-industriel.md
@@ -29,7 +29,9 @@ _type: Article
 
 ## Une urgence ? Nous sommes disponibles 7j/7 depuis 1979\.
 
-## CHALON ELECTRICITE vous fournit un service complet pour l' installation électrique de vos ateliers ainsi que de vos bureaux.
+**CHALON ELECTRICITE vous fournit un service complet pour l' installation électrique de vos ateliers ainsi que de vos bureaux.**
+
+****
 
 **Raccordement au Réseau d'Alimentation :**
 

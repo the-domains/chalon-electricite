@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-20T17:48:49.981Z'
-dateModified: '2016-04-20T17:48:49.540Z'
+datePublished: '2016-04-20T17:49:48.212Z'
+dateModified: '2016-04-20T17:49:29.060Z'
 title: 'Industriel, tertiaire, Artisans'
 author: []
 sourcePath: _posts/2016-03-22-vous-etes-un-industriel.md

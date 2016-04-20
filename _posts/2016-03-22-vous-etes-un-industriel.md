@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Raccordement au Réseau d’Alimentation :'
-datePublished: '2016-04-20T17:47:03.186Z'
-dateModified: '2016-04-20T17:46:58.053Z'
-title: Une urgence ? Nous sommes disponibles 7j/7 depuis 1979
+datePublished: '2016-04-20T17:48:09.127Z'
+dateModified: '2016-04-20T17:48:06.820Z'
+title: 'Industriel, tertiaire, Artisans'
 author: []
 sourcePath: _posts/2016-03-22-vous-etes-un-industriel.md
 published: true
@@ -24,8 +24,10 @@ _type: Article
 ---
 # Vous êtes un Industriel ?
 
-## Une urgence ? Nous sommes disponibles 7j/7 depuis 1979
+## Industriel, tertiaire, Artisans
 ![ARTISAN ELECTRICIEN](https://s3-us-west-2.amazonaws.com/the-grid-img/p/20cc790a7902c6092f9dbc4a7453e7d171a86243.gif)
+
+## Une urgence ? Nous sommes disponibles 7j/7 depuis 1979\.
 
 ## CHALON ELECTRICITE vous fournit un service complet pour l' installation électrique de vos ateliers ainsi que de vos bureaux.
 

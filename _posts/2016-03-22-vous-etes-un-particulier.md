@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Nos travaux sont couverts par une garantie décénale.
-datePublished: '2016-04-20T17:42:48.681Z'
-dateModified: '2016-04-20T17:42:25.527Z'
+datePublished: '2016-04-20T17:49:43.664Z'
+dateModified: '2016-04-20T17:49:31.982Z'
 title: Vous êtes un Particulier ?
 author:
   - name: ''

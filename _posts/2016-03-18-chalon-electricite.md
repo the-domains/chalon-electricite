@@ -3,13 +3,15 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: CHALON ELECTRICITE
-datePublished: '2016-03-23T16:58:11.181Z'
-dateModified: '2016-03-23T16:58:05.999Z'
+description: ''
+datePublished: '2016-04-20T17:21:56.545Z'
+dateModified: '2016-04-20T17:21:23.061Z'
 title: 'Une Urgence, un dépannage ?'
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-18-chalon-electricite.md
 published: true
 authors: []

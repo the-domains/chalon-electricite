@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-20T17:21:56.545Z'
-dateModified: '2016-04-20T17:21:23.061Z'
+datePublished: '2016-04-20T17:52:51.495Z'
+dateModified: '2016-04-20T17:52:43.965Z'
 title: 'Une Urgence, un dépannage ?'
 author:
   - name: ''
@@ -26,5 +26,7 @@ _type: Article
 ---
 # Une Urgence, un dépannage ?
 
-## Entre nous, le courant passe !
+## Appelez vite le 04 78 05 20 47
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/390b89652804f0424f5ce9da49ed96f77758aafd.jpg)
+
+**"Entre nous, le courant passe !"**

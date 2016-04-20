@@ -6,11 +6,11 @@ inLanguage: null
 starred: false
 keywords: []
 description: Nos travaux sont couverts par une garantie décénale.
-datePublished: '2016-04-20T17:49:43.664Z'
-dateModified: '2016-04-20T17:49:31.982Z'
+datePublished: '2016-04-20T17:56:01.945Z'
+dateModified: '2016-04-20T17:55:13.901Z'
 title: Vous êtes un Particulier ?
 author:
-  - name: ''
+  - name: FRANCK CHALON
     url: ''
 sourcePath: _posts/2016-03-22-vous-etes-un-particulier.md
 published: true

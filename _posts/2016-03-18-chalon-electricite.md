@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ELECTRICITE GENERALE
-datePublished: '2016-04-20T17:56:47.625Z'
-dateModified: '2016-04-20T17:56:06.725Z'
+description: '"Entre nous, le courant passe !"'
+datePublished: '2016-04-20T17:56:57.114Z'
+dateModified: '2016-04-20T17:56:49.018Z'
 title: 'Une Urgence, un dépannage ?'
 author:
   - name: FRANCK CHALON
@@ -27,6 +27,5 @@ _type: Article
 # Une Urgence, un dépannage ?
 
 ## Appelez vite le 04 78 05 20 47
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c85d4247e60cb6bd7d8e4667cbdb2387c6fb100a.jpg)
 
 **"Entre nous, le courant passe !"**

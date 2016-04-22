@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '"Entre nous, le courant passe !"'
-datePublished: '2016-04-22T16:19:34.951Z'
-dateModified: '2016-04-22T16:17:40.591Z'
+datePublished: '2016-04-22T16:23:14.978Z'
+dateModified: '2016-04-22T16:20:55.038Z'
 title: 'Une Urgence, un dépannage ?'
 author:
   - name: FRANCK CHALON

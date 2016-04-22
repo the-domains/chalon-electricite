@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: Zone Artisanale et Commerciale de La Ronze
-datePublished: '2016-04-20T17:49:55.272Z'
-dateModified: '2016-04-20T17:43:35.294Z'
+datePublished: '2016-04-22T16:24:30.775Z'
+dateModified: '2016-04-22T16:24:26.394Z'
 title: Notre Atelier
 author: []
 sourcePath: _posts/2016-03-18-notre-atelier.md
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: true
 url: notre-atelier/index.html
 _type: Article
 

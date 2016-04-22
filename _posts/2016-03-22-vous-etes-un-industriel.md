@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-20T17:54:51.921Z'
-dateModified: '2016-04-20T17:54:49.430Z'
+datePublished: '2016-04-22T16:23:09.534Z'
+dateModified: '2016-04-22T16:23:06.496Z'
 title: 'Industriel, tertiaire, Artisans'
 author: []
 sourcePath: _posts/2016-03-22-vous-etes-un-industriel.md
@@ -18,14 +17,15 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: vous-etes-un-industriel/index.html
 _type: Article
 
 ---
 # Vous êtes un Industriel ?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d5b0b75-4253-4074-b53c-ed6326323d45.png)
 
 ## Industriel, tertiaire, Artisans
-![ARTISAN ELECTRICIEN](https://s3-us-west-2.amazonaws.com/the-grid-img/p/20cc790a7902c6092f9dbc4a7453e7d171a86243.gif)
 
 ## Une urgence ? Nous sommes disponibles 7j/7 depuis 1979\.
 

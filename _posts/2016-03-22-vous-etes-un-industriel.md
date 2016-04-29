@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-29T16:07:12.629Z'
-dateModified: '2016-04-22T16:30:30.438Z'
+datePublished: '2016-04-29T16:55:36.702Z'
+dateModified: '2016-04-29T16:21:41.733Z'
 title: 'Industriel, tertiaire, Artisans'
 author: []
 sourcePath: _posts/2016-03-22-vous-etes-un-industriel.md

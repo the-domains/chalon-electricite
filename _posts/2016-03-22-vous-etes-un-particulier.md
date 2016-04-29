@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Nos travaux sont couverts par une garantie décénale.
-datePublished: '2016-04-29T16:21:24.561Z'
-dateModified: '2016-04-29T16:21:22.210Z'
+datePublished: '2016-04-29T16:50:53.101Z'
+dateModified: '2016-04-29T16:50:51.440Z'
 title: Vous êtes un Particulier ?
 author:
   - name: FRANCK CHALON
@@ -37,7 +37,7 @@ Nos travaux sont couverts par une garantie décénale.
 
 **Vous pouvez faire appel à nous pour :**
 
-* Un contrôle (audit) de votre installation : sécurité, efficacité de votre isolation, économie d'énergie.
+* Un contrôle (audit) de votre installation : sécurité, efficacité de votre isolation, [économie d'énergie][0].
 
 * Une mise en conformité suivant les normes en vigueur
 
@@ -60,3 +60,5 @@ Nos travaux sont couverts par une garantie décénale.
 * Automatismes de portails, interphone, vidéophone
 
 * Analyse de votre consommation poste par poste pour vous faire réaliser des économies
+
+[0]: https://thegrid.ai/chalon-electricite/des-economies-sur-ma-facture/

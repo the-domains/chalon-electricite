@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Afin de vous faire réaliser des économies substantielles sur votre facture électrique, nous sommes équipés d'enregistreur de mesures de puissances électriques. Nous pouvons poste par poste, connaître vos dépenses, vos besoins et intervenir sur votre installation afin de la rendre plus performante."
-datePublished: '2016-04-29T17:02:21.955Z'
-dateModified: '2016-04-29T17:02:18.169Z'
+datePublished: '2016-04-29T17:08:03.517Z'
+dateModified: '2016-04-29T17:08:00.699Z'
 title: DES ECONOMIES SUR MA FACTURE
 author: []
 sourcePath: _posts/2016-04-29-des-economies-sur-ma-facture.md
@@ -27,10 +27,8 @@ _type: Article
 
 ## MESURE d'EFFICACITE ENERGETIQUE
 
-Afin de vous faire réaliser des économies substantielles sur votre facture électrique, nous sommes équipés d'[enregistreur de mesures][0] de puissances électriques. Nous pouvons poste par poste, connaître vos dépenses, vos besoins et intervenir sur votre installation afin de la rendre plus performante.
+Afin de vous faire réaliser des économies substantielles sur votre facture électrique, nous sommes équipés d'enregistreur de mesures de puissances électriques. Nous pouvons poste par poste, connaître vos dépenses, vos besoins et intervenir sur votre installation afin de la rendre plus performante.
 
 Pour les industriels, nous oeuvrons pour analyser vos consommations , contrôle de votre réseau électrique , tension , courant , puissance active et réactive ...
 
 Nous intervenons avec l'Enregistreur de puissance et d'énergie PEL103\.
-
-[0]: http://www.distrame.fr/fr/catalog/Enregistreur-de-puissance-et-d-energie-PEL-103-avec-affichage,64258.html

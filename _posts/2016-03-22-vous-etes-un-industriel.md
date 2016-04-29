@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-22T16:23:09.534Z'
-dateModified: '2016-04-22T16:23:06.496Z'
+datePublished: '2016-04-29T16:07:12.629Z'
+dateModified: '2016-04-22T16:30:30.438Z'
 title: 'Industriel, tertiaire, Artisans'
 author: []
 sourcePath: _posts/2016-03-22-vous-etes-un-industriel.md
@@ -28,6 +28,8 @@ _type: Article
 ## Industriel, tertiaire, Artisans
 
 ## Une urgence ? Nous sommes disponibles 7j/7 depuis 1979\.
+
+04 78 05 20 47
 
 **CHALON ELECTRICITE vous fournit un service complet pour l' installation électrique de vos ateliers ainsi que de vos bureaux.**
 

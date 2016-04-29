@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CHALON ELECTRICITE GENERALE & INDUSTRIELLE]]></title>
-        <description><![CDATA[CHALON ELECTRICITE GENERALE & INDUSTRIELLE]]></description>
+        <title><![CDATA[CHALON ELECTRICITE ]]></title>
+        <description><![CDATA[CHALON ELECTRICITE ]]></description>
         <link>https://thegrid.ai/chalon-electricite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 16:28:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 16:07:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chalon-electricite/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[FRANCK CHALON]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Fri, 22 Apr 2016 16:26:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Une Urgence, un dépannage ?]]></title>
+            <description><![CDATA[<article><h1>Une Urgence, un dépannage ?</h1><h2>Appelez vite le 04 78 05 20 47</h2><p>"Entre nous, le courant passe !"</p></article>]]></description>
+            <link>https://thegrid.ai/chalon-electricite/chalon-electricite/index.html</link>
+            <guid isPermaLink="false">3bb7e4a5-7d80-4732-85c7-03279772e028</guid>
+            <pubDate>Fri, 29 Apr 2016 16:07:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Notre Atelier]]></title>
             <description><![CDATA[<article><h1>Notre Atelier</h1><p>Zone Artisanale et Commerciale de La Ronze</p></article>]]></description>
             <link>https://thegrid.ai/chalon-electricite/notre-atelier/index.html</link>
             <guid isPermaLink="false">6d2b0e77-9669-467b-a087-f79e66d8331f</guid>
             <pubDate>Fri, 22 Apr 2016 16:28:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Une Urgence, un dépannage ?]]></title>
-            <description><![CDATA[<article><h1>Une Urgence, un dépannage ?</h1><h2>Appelez vite le 04 78 05 20 47</h2><p>"Entre nous, le courant passe !"</p></article>]]></description>
-            <link>https://thegrid.ai/chalon-electricite/chalon-electricite/index.html</link>
-            <guid isPermaLink="false">3bb7e4a5-7d80-4732-85c7-03279772e028</guid>
-            <pubDate>Fri, 22 Apr 2016 16:23:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Industriel, tertiaire, Artisans]]></title>

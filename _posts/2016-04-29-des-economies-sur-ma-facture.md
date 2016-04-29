@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Afin de vous faire réaliser des économies substantielles sur votre facture électrique, nous sommes équipés d'enregistreur de mesures de puissances électriques. Nous pouvons poste par poste, connaître vos dépenses, vos besoins et intervenir sur votre installation afin de la rendre plus performante."
-datePublished: '2016-04-29T17:08:03.517Z'
-dateModified: '2016-04-29T17:08:00.699Z'
+datePublished: '2016-04-29T17:17:48.107Z'
+dateModified: '2016-04-29T17:17:15.221Z'
 title: DES ECONOMIES SUR MA FACTURE
 author: []
 sourcePath: _posts/2016-04-29-des-economies-sur-ma-facture.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: des-economies-sur-ma-facture/index.html
 _type: Article
 

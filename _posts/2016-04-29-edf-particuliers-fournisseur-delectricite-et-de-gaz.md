@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://particulier.edf.fr/fr/accueil.html'
 inLanguage: fr
 keywords: []
 description: chalon electricien RHONE ALPES
-datePublished: '2016-04-29T17:19:09.392Z'
-dateModified: '2016-04-29T17:19:06.808Z'
+datePublished: '2016-04-29T17:19:44.477Z'
+dateModified: '2016-04-29T17:19:15.284Z'
 author:
   - name: ''
     url: ''

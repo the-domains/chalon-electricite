@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Nos travaux sont couverts par une garantie décénale.
-datePublished: '2016-04-29T16:07:22.295Z'
-dateModified: '2016-04-29T16:07:21.512Z'
+datePublished: '2016-04-29T16:21:24.561Z'
+dateModified: '2016-04-29T16:21:22.210Z'
 title: Vous êtes un Particulier ?
 author:
   - name: FRANCK CHALON
@@ -29,7 +29,7 @@ _type: Article
 ## Dépannage - Installation - Audit
 ![création et mise en oeuvre d'éclairage de terrasse](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e206982f-50e2-4e6c-9eaa-6fe3f68412bf.jpg)
 
-## En neuf ou en rénovation , CHALON ELECTRICITE intervient sur votre chantier en toute sécurité et vous garantit une installation conforme aux normes C1500 .
+**En neuf ou en rénovation , CHALON ELECTRICITE intervient sur votre chantier en toute sécurité et vous garantit une installation conforme aux normes C1500** .
 
 Nos travaux sont couverts par une garantie décénale.
 

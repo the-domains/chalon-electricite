@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '"Entre nous, le courant passe !"'
-datePublished: '2016-04-29T16:53:50.487Z'
-dateModified: '2016-04-29T16:53:49.932Z'
+datePublished: '2016-04-29T17:18:02.528Z'
+dateModified: '2016-04-29T17:17:31.306Z'
 title: 'Une Urgence, un dépannage ?'
 author:
   - name: FRANCK CHALON
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: chalon-electricite/index.html
 _type: Article
 

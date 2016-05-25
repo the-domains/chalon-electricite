@@ -1,7 +1,7 @@
 name: CHALON ELECTRICITE
 favicon: null
-layout_spectrum: 0.50084
-typography_spectrum: 1
+layout_spectrum: 0.11580555723048747
+typography_spectrum: 0.99770488566719
 title: 'CHALON ELECTRICITE - INDUSTRIEL & PARTICULIERS - 69'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#6b5c50'
-    - '#ffffff'
-    - '#c1b4a8'
-    - '#d9d5d2'
-    - '#000000'
-  brandStrength: 1
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 1
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
+  brandStrength: 0.48933955980464816
+  lightness: 0.968425482744351
+  saturation: 0.6445719909388572
+  rhythmicContrast: 0.7150966715998948
 purpose: []
